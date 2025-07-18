@@ -42,7 +42,7 @@ class CaltechDueReportsApp:
     def __init__(self, root):
         self.root = root
         self.root.title("Caltech Due Date Reporting")
-        self.root.geometry("420x550")  # width x height
+        self.root.geometry("420x540")  # width x height
         self.root.iconbitmap(sys.executable)  # Ensure to have an icon file selected
         self.root.resizable(False, False)
         self.cancel_flag = False
