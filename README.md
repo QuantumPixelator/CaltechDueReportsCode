@@ -1,6 +1,6 @@
 # Caltech Due Date Reporting
 
-A Windows desktop app for searching Excel files in selected folders, filtering by due date, and exporting results.  
+A desktop app for searching Excel files in selected folders, filtering by due date, and exporting results.  
 
 Features include:
 - Multi-folder selection
@@ -33,8 +33,8 @@ Features include:
 
 Run the app with:
 ```sh
-python [main.pyw](http://_vscodecontentref_/0)
+python main.pyw
 ```
 
 ## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the MIT [License](https://opensource.org/licenses/MIT).
